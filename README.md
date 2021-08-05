@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omdos-dev
 - 👀 I’m interested in finding React frontend opportunities 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently working on improving my frontend development skills
 - 📫 You can always send me an email over on omareldessouki@gmail.com
 
 <!---
